@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo8950
-Fork on GitHub1993
 <h1 align="center">Hi 👋, I'm Julio Cesar Torres Moreno</h1>
 <h3 align="center">Ninja Developer</h3>
 
