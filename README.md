@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Developer at Java, Node.JS and AWS**
+- 🔭 I’m currently working on **Backend Developer at Node.JS, Typescript with NestJS and AWS**
 
 - 🌱 I’m currently learning **Data, Big Data, Security, AWS**
 
