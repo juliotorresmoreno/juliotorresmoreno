@@ -1,6 +1,106 @@
 <h1 align="center">Hi 👋, I'm Julio Cesar Torres Moreno</h1>
-<h3 align="center">A passionate ninja developer from Colombia</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="center">Backend Engineer | Cloud & AWS | Data Science & Machine Learning</h3>
 
+<p align="center">
+  Building secure, scalable, and data-driven software solutions from Colombia 🇨🇴
+</p>
+
+<p align="center">
+  <a href="https://juliotorres.website/">Website</a> ·
+  <a href="https://www.linkedin.com/in/julio-cesar-torres-moreno/">LinkedIn</a> ·
+  <a href="https://onnasoft.us/">OnnaSoft</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a software engineer specializing in backend development, cloud infrastructure, and scalable distributed applications.
+
+My experience spans fintech, banking, aviation, payment systems, and data-driven solutions. I enjoy designing reliable APIs, integrating complex systems, and turning business requirements into secure and maintainable software.
+
+- 🔭 Currently working as a Backend Developer at Accelya.
+- ☁️ Specialized in AWS cloud services and scalable backend architectures.
+- ⚙️ Experienced in Node.js, TypeScript, and Golang.
+- 📊 Academic background in Data Science, Big Data, and Machine Learning.
+- 🤖 Interested in AI, intelligent automation, and data-driven applications.
+- 🚀 Focused on software quality, security, performance, and continuous learning.
+
+## 🛠️ Languages and Technologies
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,go,python,express,nestjs" alt="Backend technologies"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,nginx,git,github" alt="Cloud and DevOps technologies"/>
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind" alt="Frontend technologies"/>
+</p>
+
+### Databases & Data Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch" alt="Databases and data technologies"/>
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" height="40" alt="Apache Hadoop"/>
+  <img src="https://cdn.simpleicons.org/apachehive/FDEE21" height="40" alt="Apache Hive"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas"/>
+</p>
+
+### Data Science & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" alt="Machine learning technologies"/>
+</p>
+
+## 💼 Professional Experience
+
+- **Accelya** — Backend Developer  
+  Developing scalable backend systems and integrating APIs for the aviation industry.
+
+- **Sophos Banking Solutions** — Backend Developer  
+  Building secure financial applications and managing AWS environments.
+
+- **Imaginamos** — Backend Developer  
+  Developing backend services, payment gateway integrations, and real-time messaging solutions.
+
+- **Rappi** — Golang Backend Developer  
+  Building backend solutions focused on performance, scalability, and accurate delivery cost calculations.
+
+## 🎓 Education
+
+- **Master's in Data Science** — IEBS Digital School
+- **Big Data and Machine Learning** — BSG Institute
+- **Computer Analysis and Programming** — INCA
+
+## 🌐 Let's Connect
+
+I'm interested in connecting with engineers, technology leaders, and companies working on backend engineering, cloud architecture, data platforms, and AI-powered solutions.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/julio-cesar-torres-moreno/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://juliotorres.website/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=googlechrome" alt="Portfolio"/>
+  </a>
+  <a href="https://onnasoft.us/">
+    <img src="https://img.shields.io/badge/OnnaSoft-Explore-6C63FF?style=for-the-badge" alt="OnnaSoft"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building reliable software, one solution at a time.</i>
+</p>
